@@ -56,6 +56,8 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by emailing Marie ([marie.starck@shaw.ca][1]) or Jessica ([jess.rae.thomas@gmail.com][2]).
 
+See our [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md) for more details.
+
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7\. Addressing Grievances
