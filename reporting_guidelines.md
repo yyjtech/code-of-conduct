@@ -64,7 +64,7 @@ guarantee we’ll act on it.
 ### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision
-of the working group, contact YYJ Tech (Marie (marie.starck@shaw.ca) or Jessica (jess.rae.thomas@gmail.com)) with your appeal and we
+of the working group, contact community organizers (Marie (marie.starck@shaw.ca) or Jessica (jess.rae.thomas@gmail.com)) with your appeal and we
 will review the case.
 
 Revision 1.0, posted February 4, 2015 Reporting Guidelines derived from those of
