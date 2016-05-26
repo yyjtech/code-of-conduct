@@ -1,6 +1,4 @@
 
-[Source](http://yyjtech-code-of-conduct.surge.sh/ "Permalink to YYJ Tech Code of Conduct")
-
 # YYJ Tech Code of Conduct
 
 ## 1\. Purpose
