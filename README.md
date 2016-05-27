@@ -71,8 +71,8 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 9\. Contact information
-- Marie Starck - @marie - marie.starck @ shaw dot ca
-- Jessica Thomas - @jess - jess.rae.thomas @ gmail dot com
+- Marie Starck - @marie - <a href="mailto:marie.starck@shaw.ca?Subject=YYJ Contact" target="_blank">marie.starck@shaw.ca</a>
+- Jessica Thomas - @jess - <a href="mailto:jess.rae.thomas@gmail.com?Subject=YYJ Contact" target="_blank">jess.rae.thomas@gmail.com</a>
 
 ## 10\. License and attribution
 
