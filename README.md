@@ -54,7 +54,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6\. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by emailing Marie ([marie.starck@shaw.ca][1]) or Jessica ([jess.rae.thomas@gmail.com][2]).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by emailing Marie (marie.starck @ shaw dot ca) or Jessica (jess.rae.thomas @ gmail dot com).
 
 See our [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md) for more details.
 
@@ -70,6 +70,10 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
+## 9\. Contact information
+- Marie Starck - @marie - marie.starck @ shaw dot ca
+- Jessica Thomas - @jess - jess.rae.thomas @ gmail dot com
+
 ## 10\. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license][3].
@@ -80,8 +84,6 @@ _Revision 2.1. Posted 4 February 2015._
 
 _Revision 2.0, adopted by the [Stumptown Syndicate][6] board on 10 January 2013. Posted 17 March 2013._
 
-[1]: mailto:marie.starck@shaw.ca
-[2]: mailto:jess.rae.thomas@gmail.com
 [3]: http://creativecommons.org/licenses/by-sa/3.0/
 [4]: https://www.djangoproject.com/conduct/
 [5]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy

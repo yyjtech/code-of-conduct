@@ -1,7 +1,7 @@
 # Reporting Guidelines
 
 If you believe someone is violating the code of conduct we ask that you report
-it to the YYJ Tech community leaders by emailing Marie (marie.starck@shaw.ca) or Jessica (jess.rae.thomas@gmail.com).
+it to the YYJ Tech community leaders by emailing Marie (marie.starck @ shaw dot ca) or Jessica (jess.rae.thomas @ gmail dot com).
 
 **All reports will be kept confidential.** In some cases we may determine that a
 public statement will need to be made. If that’s the case, the identities of all
@@ -64,7 +64,7 @@ guarantee we’ll act on it.
 ### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision
-of the working group, contact community organizers (Marie (marie.starck@shaw.ca) or Jessica (jess.rae.thomas@gmail.com)) with your appeal and we
+of the working group, contact community organizers (Marie (marie.starck @ shaw dot ca) or Jessica (jess.rae.thomas @ gmail dot com)) with your appeal and we
 will review the case.
 
 Revision 1.0, posted February 4, 2015 Reporting Guidelines derived from those of
