@@ -71,8 +71,7 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 9\. Contact information
-- Marie Starck - @marie - <a href="mailto:marie.starck@shaw.ca?Subject=YYJ Contact" target="_blank">marie.starck@shaw.ca</a>
-- Jessica Thomas - @jess - <a href="mailto:jess.rae.thomas@gmail.com?Subject=YYJ Contact" target="_blank">jess.rae.thomas@gmail.com</a>
+To contact the YYJTech admins/moderators about any concerns please use the link found in the [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md) section. 
 
 ## 10\. License and attribution
 
