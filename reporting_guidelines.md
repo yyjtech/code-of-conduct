@@ -1,7 +1,7 @@
 # Reporting Guidelines
 
 If you believe someone is violating the code of conduct we ask that you report
-it to the YYJ Tech community leaders by emailing Marie (marie.starck @ shaw dot ca) or Jessica (jess.rae.thomas @ gmail dot com).
+it to the YYJ Tech community leaders here: https://goo.gl/forms/94uxzsNnwDLIotQ23
 
 **All reports will be kept confidential.** In some cases we may determine that a
 public statement will need to be made. If that’s the case, the identities of all
@@ -12,20 +12,7 @@ If you believe anyone is in physical danger, please notify appropriate law
 enforcement first. If you are unsure what law enforcement agency is appropriate,
 please include this in your report and we will attempt to notify them.
 
-In your report please include:
-
-* Your contact info (so we can get in touch with you if we need to follow up)
-* Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  were other witnesses besides you, please try to include them as well.
-* When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a publicly available record (e.g. a
-  mailing list archive or a public IRC logger) please include a link.
-* Any extra context you believe existed for the incident.
-* If you believe this incident is ongoing.
-* Any other information you believe we should have.
-* What happens after you file a report?
-
-You will receive an email from the YYJ Tech community leaders acknowledging
+If you included personal contact information, you will receive an email from the YYJ Tech community leaders acknowledging
 receipt within 24 hours (and will aim for much quicker than that).
 
 The working group will immediately meet to review the incident and determine:
@@ -49,12 +36,12 @@ decision as to how to respond. Responses may include:
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing
   list or IRC).
-* A permanent or temporary ban from some or all VicDev spaces (events, meetings,
-  mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all YYJTech spaces (events, meetings,
+  mailing lists, Slack, etc.)
 * A request for a public or private apology.
 * A request to engage in mediation and/or an accountability plan.
 * We’ll respond within one week to the person who filed the report with either a
-  resolution or an explanation of why the situation is not yet resolved.
+  resolution, or an explanation of why the situation is not yet resolved.
 
 Once we’ve determined our final action, we’ll contact the original reporter to
 let them know what action (if any) we’ll be taking. We’ll take into account
@@ -64,8 +51,7 @@ guarantee we’ll act on it.
 ### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision
-of the working group, contact community organizers (Marie (marie.starck @ shaw dot ca) or Jessica (jess.rae.thomas @ gmail dot com)) with your appeal and we
-will review the case.
+of the working group, contact community organizers (@brandonbrown @jtrill @jen @laurac @maypong @jem @moxus) with your appeal and we will review the case.
 
-Revision 1.0, posted February 4, 2015 Reporting Guidelines derived from those of
+Revision 1.1, posted Jan 31, 2018 Reporting Guidelines derived from those of
 the Django Software Foundation.
