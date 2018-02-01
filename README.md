@@ -22,7 +22,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 The following behaviors are expected and requested of all community members:
 
 * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-* Exercise consideration and respect in your speech and actions.
+* Exercise consideration and respect in your speech and actions. Tone on the internet is often misunderstood, and people may interpret your words differently than you might intend. So err on the side of caution.
 * Attempt collaboration before conflict.
 * Refrain from demeaning, discriminatory, or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
@@ -30,7 +30,7 @@ The following behaviors are expected and requested of all community members:
 
 ## 4\. Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviors are considered harassment and are unacceptable within our community. This is not an exhaustive list of unacceptable behaviour.
 
 * Violence, threats of violence or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
