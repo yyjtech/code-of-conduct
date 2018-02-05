@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report
+If you believe someone is violating the code of conduct (https://github.com/yyjtech/code-of-conduct) we ask that you report
 it to the YYJ Tech community leaders here: https://goo.gl/forms/94uxzsNnwDLIotQ23
 
 **All reports will be kept confidential.** In some cases we may determine that a
