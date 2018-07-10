@@ -44,6 +44,14 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
 
+Unacceptable behavior can also include various kinds of "bad faith participation", including such examples as:
+* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual networking, this is not IRC or Reddit. Please keep debates confined to the #debate channel.
+* Trolling language, such as "I would be ok with X if it wasn't for XYZ." or "That's reverse racism." or other denials of the experience of marginalized folks. See the previous point about debate.
+* Deflecting your argument with requests or repeated questions designed to wear down the patience of the other side, especially if you link the lack of responding to you as "proof" that you are being victimized, and/or are right because there is no "proof" otherwise. See the first point above.
+
+Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the channels you are in, and respect the boundaries of others if they call you out on your behaviour. 
+
+
 ## 5\. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
