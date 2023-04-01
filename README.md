@@ -44,6 +44,19 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
 
+### Spam
+
+As a local community, promoting of things unrelated to Victoria, BC is often considered spam and the community is very sensitive to this. 
+
+* DMing members to promote things is *not* allowed. Users who do this will be warned, and failure to stop will result in having your account suspended.
+* Posting to promote things unrelated to Victoria, BC or with no clear benefit to the community *will be removed*. Users who do this will be warned, and failure to stop will result in having your account suspended. For example:
+  * Sharing an app or website where the content is not related to Victoria, BC or nearby local area is *not* allowed. 
+  * Promoting other general tech resources (e.g. websites for finding work, tools, apps) is *not* allowed. 
+
+These things are acceptable within the community standards:
+* Events and job postings that are on-topic for the technology industry and are possible to attend remotely or have a clear benefit to members of the community (e.g. access to funding) are allowed. 
+* Self-promotion is permitted in #shameless-self-promotion, provided it meets the above criteria of being related to Victoria (e.g. built by a member of the Victoria or nearby tech community).
+
 ## 5\. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
