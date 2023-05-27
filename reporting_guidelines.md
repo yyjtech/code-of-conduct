@@ -1,9 +1,11 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct (https://github.com/yyjtech/code-of-conduct) we ask that you report
-it to the YYJ Tech community leaders here: https://goo.gl/forms/94uxzsNnwDLIotQ23
+If you believe someone is violating the code of conduct (https://github.com/yyjtech/code-of-conduct) 
+we ask that you report it to the YYJ Tech community leaders here: https://goo.gl/forms/94uxzsNnwDLIotQ23
 
-**All reports will be kept confidential.** In some cases we may determine that a
+**All reports will be kept confidential.** 
+
+In some cases we may determine that a
 public statement will need to be made. If that’s the case, the identities of all
 victims and reporters will remain confidential unless those individuals instruct
 us otherwise.
@@ -15,7 +17,7 @@ please include this in your report and we will attempt to notify them.
 If you included personal contact information, you will receive an email from the YYJ Tech community leaders acknowledging
 receipt within 24 hours (and will aim for much quicker than that).
 
-The working group will immediately meet to review the incident and determine:
+The working group will review the incident and determine:
 
 * What happened.
 * Whether this event constitutes a code of conduct violation.
@@ -34,10 +36,8 @@ decision as to how to respond. Responses may include:
 * Nothing (if we determine no violation occurred).
 * A private reprimand from the working group to the individual(s) involved.
 * A public reprimand.
-* An imposed vacation (i.e. asking someone to "take a week off" from a mailing
-  list or IRC).
-* A permanent or temporary ban from some or all YYJTech spaces (events, meetings,
-  mailing lists, Slack, etc.)
+* An imposed vacation (i.e. asking someone to "take a week off" from the group).
+* A permanent or temporary ban from some or all YYJTech spaces.
 * A request for a public or private apology.
 * A request to engage in mediation and/or an accountability plan.
 * We’ll respond within one week to the person who filed the report with either a
@@ -51,7 +51,7 @@ guarantee we’ll act on it.
 ### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision
-of the working group, contact community organizers (@brandonbrown @jtrill @jen @laurac @maypong @jem @moxus) with your appeal and we will review the case.
+of the working group, contact community organizers with your appeal and we will review the case.
 
-Revision 1.1, posted Jan 31, 2018 Reporting Guidelines derived from those of
-the Django Software Foundation.
+Revision 1.2, posted May 27, 2023 
+Reporting Guidelines derived from those ofthe Django Software Foundation.
