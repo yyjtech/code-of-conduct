@@ -43,6 +43,8 @@ Remember not to assume your experience is the default - make space for others to
 
 > We all have to help to foster safer and braver spaces
 
+Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the channels you are in, and respect the boundaries of others if they call you out on your behaviour. 
+
 Figuring out how to include someone who does not have the same experience as you is not easy, and if we succeed in being a welcoming place that will mean we are interacting with many more people with many diverse experiences. Don't be afraid to try, but be open to feedback and don't take offense if someone asks you to do something differently to include them. Work together to find a way to make it possible. 
 
 **The following behaviors are expected and requested of all community members:**
@@ -89,6 +91,12 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Inappropriate physical contact. You should have someone's consent before touching them.
 * Inappropriate photography or recording.
 * Advocating for, or encouraging, any of the above behavior.
+
+Unacceptable behavior can also include various kinds of "bad faith participation", including such examples as:
+* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. Please keep debates confined to the #debate channel.
+* Trolling language, such as "I would be ok with X if it wasn't for XYZ." or "That's reverse racism." or other denials of the experience of marginalized folks. See the community standards for the kind of community we strive to be.
+* Deflecting your argument with requests (e.g. "show me proof of your personal experience") or repeated questions designed to wear down the patience of the other side. 
+
 
 ### Spam
 
