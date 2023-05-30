@@ -16,7 +16,7 @@ We invite all those who participate in the YYJ Tech community to help us create 
 
 ## 2\. Open Tech Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open tech citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their impacts on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -24,26 +24,28 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ## 3\. Expected Behavior
 
-We have four main expecations for community behaviours that contribute to creating a welcoming and thriving community. These are goals and aspirations to help drive us beyond just what is "ok" or "legal" and towards what is actively making our community a more welcoming place. 
+We have four main expecations for community behaviours that contribute to creating a welcoming and thriving community. These are goals and aspirations to help drive us beyond just what is "ban worthy" or "legal" and towards what is actively making our community a more welcoming place. Often, it's not necessarily __what__ we're saying that is creating friction, but __how__ what we are saying is being received by the other person. 
 
 > Behave as if you were at a professional event
 
-Although we are on the internet - and perhaps even more importantly _because_ we are on the internet where tone is extra challenging to read - choosing our words carefully and conducting yourself as a professional is important. If you're not sure if what you're about to say is professional, try imagining someone in your family or friend group who's got your back, but holds you to high standards - whether that be your grandma, your cousin, our best friend or your mom - would they be cheering on what you're about to say, or would they be disappointed in your level of professionalism? 
+Although we are on the internet - and perhaps even more importantly _because_ we are on the internet where tone is extremely challenging to read - choosing our words carefully and conducting yourself as a professional is important. Not sure if what you're about to say is professional? Try imagining someone in your family or friend group who's got your back, but holds you to high standards - whether that be your grandma, your cousin, our best friend or your mom - would they be cheering on what you're about to say, or would they be disappointed in your level of professionalism? 
 
 > Use kindness to build community
 
-This doesn't mean we don't hold each other to high standards for behaviour, but it does mean we call each other out or in on things we are uncomfortable with in a way that is grounded in empathy and respect - even if we don't feel like we ourselves were respected in that moment. 
+This doesn't mean we don't hold each other to high standards for behaviour, but it does mean we call each other in (or out, if necessary) on things we are uncomfortable with in a way that is grounded in empathy and respect - even if we don't feel like we ourselves were respected in that moment. 
 
 > Be curious to hear about the other person’s perspective
 
-Remember not to assume your experience is the default - make space for others to have different life experiences than you. Also remember to double check that you understand the motivations behind what they have to share. When in doubt: repeat back what you think you're hearing, and ask why the topic matters to them. Often, it's not necessarily what we're saying that is not keeping the conversation open, but how we are saying it. One litmus test for how you are framing something is going to read as having implicit bias is to check against these three questions: 
+Remember not to assume your experience is the default - make space for others to have different life experiences than you. One litmus test for how you are framing something is going to read as having implicit bias is to check against these three questions: 
 * *First: is this true* is what you're about to say something that is a fact, or a perspective that you hold where you can acknolwedge that others may hold different ones? Is there a way to explicitly acknolwedge that you're open to other perpsectives in how you're responding; will this read as a "yes and", or a "no because"? 
 * *Second: Is this missing something* are you encouraging all possibilities, or just the ones that come most readily to you and your life experience? What questions might you ask the other folks in the conversation to understand their experiences or motivations better? 
 * *Third: is this just* is this supporting the inclusion and equality of minority members of our community, or reinforcing barriers for those groups? This can be quite nuanced, but being explicit about who and how we want to advocate for each other, and why it matters to us, is always a great reminder. 
 
+Take the time to understand the motivations behind what the other person has share, rather than drawing your own conclusions. When in doubt: repeat back what you think you're hearing, and ask why the topic matters to them. 
+
 > We all have to help to foster safer and braver spaces
 
-Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the channels you are in, and respect the boundaries of others if they call you out on your behaviour. 
+Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the channels you are in, and respect the boundaries of others if they ask something of you. 
 
 Figuring out how to include someone who does not have the same experience as you is not easy, and if we succeed in being a welcoming place that will mean we are interacting with many more people with many diverse experiences. Don't be afraid to try, but be open to feedback and don't take offense if someone asks you to do something differently to include them. Work together to find a way to make it possible. 
 
@@ -66,20 +68,23 @@ Figuring out how to include someone who does not have the same experience as you
 
 ### Enforcing Community Tone
 
-The goal of this section is not to set up a set of strict rules and guidelines that moderators will enforce strictly - unlike the Unacceptable Behaviours section. This is impossible, because we all have different definitions of words like "professional" and "kindness" and what it takes to make a space braver and safer. We also all have different tolerances or defintions for what is or is not abrasive to us individually. 
+The goal of this section is to help make clearer what the community aspires to, and who we want to aim to be as uncovered through the [community research](https://yyj-tech.ca/evolution/#shared-norms) conducted in 2023. 
 
-The goal of this section is to help make clearer what the community aspires to, and who we want to aim to be as uncovered through [community research](https://yyj-tech.ca/evolution/#shared-norms). 
+The goal of this section is *NOT* to set up a set of strict rules and guidelines to enforce. This is impossible, because we all have different definitions of words like "professional" and "kindness" mean, and we all will have different needs for what it takes to make a space braver and safer. We also all have different tolerances or defintions for what is or is not abrasive to us. 
 
-The goal of this section is also to give space for diversity to thrive - by providing more explicit examples to help clarify potentially ambiguous languages or concepts. Repeated, outright refusal to adopt these community norms may escalate into unacceptable territory and consequences will be enforced. However, members who are open to the feedback but struggle to adopt it as their own style of communication due will not be removed unless their actions cross over into those on the "unacceptable behaviour" list. This will help be more inclusive to members of our community who have difficulty reading social cues due to ability, language barriers, cultural differences or differences in lived experiences or just the ambiguity of internet communication. 
+Some topics also necessitate more professionalism, kindness, and sensitivity to minority experiences than others. For example, channels like #job-postings or #events that are more focused on experiences related to professional networking have a stronger need to adhere to and uphold these norms than more casual social channels like #watercooler, #politics or #random. 
 
-Community members are strongly encouraged to help model these ideals for others when they see tensions arise, or flag for moderators if they do not feel comfortable themselves. Moderators will actively participate in conversations to help support and remind community members about these expectations, and help to model more ideal interactions. 
+Community members are strongly encouraged to help by modelling and pointing to these community ideals for others when they see tensions arise, or flag for moderators if they do not feel comfortable themselves. Moderators will actively participate in public conversations to help support and remind community members about these expectations, and help to model more ideal interactions. They will also work behind the scenes to give feedback and guidance to users on how their messaging is being received by different groups. 
 
+ Repeated, outright refusal to adopt these community norms, especially in the more formal channels including but not limited to those outlined above, may escalate into unacceptable territory and consequences will be enforced. 
+ 
+ However, members who are open to the feedback but struggle to adopt it as their own style of communication due will not be removed unless their actions cross over into those on the "unacceptable behaviour" list. This is necessary to remain inclusive to members of our community who have difficulty reading social cues due to ability, language barriers, cultural differences, differences in lived experiences or just the ambiguity of internet communication. 
 
 ## 4\. Unacceptable Behaviour
 
-The following behaviors are considered harassment and are unacceptable within our community, and will result in a moderator reaching out as outlined in the consequences section. This is not an exhaustive list of unacceptable behaviour. This extends to any events held by the community. 
+The following behaviors are considered harassment and are unacceptable anywhere within our community, and will result in a moderator reaching out as outlined in the consequences section. This is not an exhaustive list of unacceptable behaviour. This extends to any events held by the community. 
 
-* Using your position of authority (e.g. leadership role, or social status) to minimize, shut down or otherwise discourage other members of the community (e.g. more junior or minority members) from advocating for what they need to thrive.
+* Using your position of authority (e.g. leadership role, or social status, or moderator position) to minimize, shut down or otherwise discourage other members of the community (e.g. more junior or minority members) from advocating for what they need to thrive. 
 * Violence, threats of harm or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 * Posting or displaying sexually explicit or violent material.
@@ -96,7 +101,9 @@ Unacceptable behavior can also include various kinds of "bad faith participation
 * Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. Please keep debates confined to the #debate channel.
 * Trolling language, such as "I would be ok with X if it wasn't for XYZ." or "That's reverse racism." or other denials of the experience of marginalized folks. See the community standards for the kind of community we strive to be.
 * Deflecting your argument with requests (e.g. "show me proof of your personal experience") or repeated questions designed to wear down the patience of the other side. 
+* Outright refusal to try to adhere to the Expected Behaviours outlined for the community
 
+Voicing criticism or dislike for an organization (e.g. employers, community organization or governments) and their policies is not considered harassment by this code of conduct, and no moderator action will be taken  unless it also violates one of the above standards. 
 
 ### Spam
 
