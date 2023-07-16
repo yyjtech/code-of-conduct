@@ -5,7 +5,9 @@ YYJ Tech strives to be as equitible and inclusive as possible. This code of cond
 
 However, we are all humans, and we know that there are times that we will not get things right. 
 
-Help us out by sharing things you are concerned about here. You can find more information about how to do that in the [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md).
+Help us out by sharing things you are concerned about on YYJ Tech. You can find more information about how to do that in the [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md).
+
+This Code of Conduct has evolved and changed over time as the community has evolved, often in response to the incidents captured in our [history](https://yyj-tech.ca/evolution/#history). It can continue to evolve, and if you have any requests for improvements feel free to suggest via a pull request, or a discussion in the [#meta channel](https://yyjtech.slack.com/archives/C34M16KA7).
 
 
 ## 1\. Purpose
@@ -37,24 +39,26 @@ This doesn't mean we don't hold each other to high standards for behaviour, but 
 > Be curious to hear about the other person’s perspective
 
 Remember not to assume your experience is the default - make space for others to have different life experiences than you. One litmus test for how you are framing something is going to read as having implicit bias is to check against these three questions: 
-* *First: is this true* is what you're about to say something that is a fact, or a perspective that you hold where you can acknolwedge that others may hold different ones? Is there a way to explicitly acknolwedge that you're open to other perpsectives in how you're responding; will this read as a "yes and", or a "no because"? 
-* *Second: Is this missing something* are you encouraging all possibilities, or just the ones that come most readily to you and your life experience? What questions might you ask the other folks in the conversation to understand their experiences or motivations better? 
-* *Third: is this just* is this supporting the inclusion and equality of minority members of our community, or reinforcing barriers for those groups? This can be quite nuanced, but being explicit about who and how we want to advocate for each other, and why it matters to us, is always a great reminder. 
+* *First: is this true?*  Is what you're about to say something that is a fact, or a perspective that you hold where you can acknowledge that others may hold different ones? Is there a way to explicitly acknowledge that you're open to other perspectives in how you're responding; will this read as a "yes and", or a "no because"?  
+* *Second: Is this missing something* Are you encouraging all possibilities, or just the ones that come most readily to you and your life experience? What questions might you ask the other folks in the conversation to understand their experiences or motivations better? 
+* *Third: is this just* Is your framing supporting the inclusion and equality of minority members of our community, or reinforcing barriers for those groups? This will always be nuanced and complex to unpack, but helps to remind us that what makes us a _community_ is when we advocate and support each other. This check helps us hold this value close in how we behave together in a way that uplifts and supports each other, and not in a way that invalidates each others experiences. 
 
-Take the time to understand the motivations behind what the other person has share, rather than drawing your own conclusions. When in doubt: repeat back what you think you're hearing, and ask why the topic matters to them. 
+Take the time to understand the motivations behind what the other person has shared, rather than drawing your own conclusions. When in doubt: repeat back what you think you're hearing, and ask why the topic matters to them. 
 
 > We all have to help to foster safer and braver spaces
 
-Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the channels you are in, and respect the boundaries of others if they ask something of you. 
+Different opinions are welcome in YYJ Tech, but context matters greatly. Please do your best to read the room and not derail the purpose(s) of the discussions you are in, and respect the boundaries of others if they ask something of you. 
 
 Figuring out how to include someone who does not have the same experience as you is not easy, and if we succeed in being a welcoming place that will mean we are interacting with many more people with many diverse experiences. Don't be afraid to try, but be open to feedback and don't take offense if someone asks you to do something differently to include them. Work together to find a way to make it possible. 
 
 **The following behaviors are expected and requested of all community members:**
 
+This section was shaped by research done in 2022 into the challenges that make a space feel less than welcoming. For more details on this history, and tips on self-monitoring to avoid this you can read the history in the [Evolution document](https://yyj-tech.ca/evolution/#harm-has-happened-here-and-what-to-do-about-it). 
+
 * Participate in a respecful and active way that supports these community values above. In doing so, you contribute to the health and longevity of this community.
-* Exercise self-reflection and empathy in your speech and actions. Tone on the internet is often misunderstood, and people may interpret your words differently than you might intend. So err on the side of caution, and include the why behind your thoughts as often as possible.
+* Exercise self-reflection and empathy in your speech and actions. Tone on the internet is often misunderstood, and people may interpret your words differently than you might intend. So err on the side of caution, and include the reasoning behind your thoughts as often as possible.
 * Attempt collaboration before conflict.
-* Refrain from demeaning, discriminatory, or harassing behaviors and speech.
+* Refrain from demeaning, discriminatory, or harassing behaviours and speech.
 * Be mindful of your surroundings and of your fellow participants. [Alert community organizers](https://goo.gl/forms/94uxzsNnwDLIotQ23) if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
@@ -62,9 +66,9 @@ Figuring out how to include someone who does not have the same experience as you
 
 | Situation |  Not acceptable | Why this is not ideal | Better options |
 |-----------|-----------------|-----------------|-----------------|
-| **You see someone you want to connect with, but you don't already know or have a good relationship with** | You send them a message asking for something from them, and keep messaging them until they respond| Think of a DM like invading someone's personal space - ask politely to be invited in, like you would coming into a home or how you might introduce yourself at an in-person networking event before starting to talk.| - Reply to the thread where you initially ran across them, and ask if they would like to connect via DM or LinkedIn <br> - Ask someone you mutually know to introduct you <br> - Request to add them on LinkedIn <br> - Start your message with "Hello, I hope it's ok to reach out via DM..."|
+| **You see someone you want to connect with, but you don't already know or have a good relationship with** | You send them a message asking for something from them, and keep messaging them until they respond| Think of a DM like invading someone's personal space - ask politely to be invited in, like you would coming into a home or how you might introduce yourself at an in-person networking event before starting to talk.| - Reply to the thread where you initially ran across them, and ask if they would like to connect via DM or LinkedIn <br> - Ask someone you mutually know to introduce you <br> - Request to add them on LinkedIn <br> - Start your message with "Hello, I hope it's ok to reach out via DM..."|
 | **You see a post that you're not sure is on topic for the group, and you're extra suspicious because this person doesn't seem to be on a BC timezone** | Ask "is this Victoria related?" or "Are you from Victoria"? | Many people use this Slack group as a way of seeking employment to come to Victoria or Canada, not only because they already live here. Reacting this way makes people feel unwelcomed in the community. Imagine coming to a public event and being asked "do you belong here?" - that wouldn't feel great. | - Welcome! What are you hoping to get out of this group?" Perhaps you can direct them to the right resources, or clear up confusion about the purpose of the community if there is any <br> - Type `!welcome` to trigger a welcome message that can help guide to find the part of the community they are looking for <br> - Hello! It looks like you aren't currently located in Victoria. Are you planning to move here? You should check out https://www.movingtovictoria.com/ - it's a great resource curated by one of our community members. |
-| **You see a community member or organization behaving in a way that you think could be better** | "Well that's stupid! It should be this way instead..." | This kind of response mimics how we often respond online to things super disconnected from us (e.g. politics, media) - but in this case, these are real members of our community who are sharing, and we may work with them in future, collaborate on community projects, or connect at events. | - If you believe what that community member was doing violated community standards, please flag for moderators via the [reporting form](https://goo.gl/forms/94uxzsNnwDLIotQ23) <br> - Open with language that sets up that you remember there is a human receiving your feedback, like "Hi _poster_..." or "Hey really appreciate this post, but I was wondering..." <br> - If you've got something potentially hard to hear, start with "Hey there, wondering if you're open to some feedback on this post?" This prepars the other person for feedback, and lets them choose the format and timing of the feedback so they can be in the appropriate headspace to receive it. |
+| **You see a community member or organization behaving in a way that you think could be better** | "Well that's stupid! It should be this way instead..." | This kind of response mimics how we often respond online to things super disconnected from us (e.g. politics, media) - but in this case, these are real members of our community who are sharing, and we may work with them in future, collaborate on community projects, or connect at events. | - If you believe what that community member was doing violated community standards, please flag for moderators via the [reporting form](https://goo.gl/forms/94uxzsNnwDLIotQ23) <br> - Open with language that sets up that you remember there is a human receiving your feedback, like "Hi _poster_..." or "Hey really appreciate this post, but I was wondering..." <br> - If you've got something potentially hard to hear, start with "Hey there, wondering if you're open to some feedback on this post?" This prepares the other person for feedback, and lets them choose the format and timing of the feedback so they can be in the appropriate headspace to receive it. |
 
 ### Enforcing Community Tone
 
@@ -78,7 +82,7 @@ Community members are strongly encouraged to help by modelling and pointing to t
 
  Repeated, outright refusal to adopt these community norms, especially in the more formal channels including but not limited to those outlined above, may escalate into unacceptable territory and consequences will be enforced. 
  
- However, members who are open to the feedback but struggle to adopt it as their own style of communication due will not be removed unless their actions cross over into those on the "unacceptable behaviour" list. This is necessary to remain inclusive to members of our community who have difficulty reading social cues due to ability, language barriers, cultural differences, differences in lived experiences or just the ambiguity of internet communication. 
+ However, members who are open to the feedback but struggle to adopt it as their own style of communication  will not be removed unless their actions cross over into those on the "unacceptable behaviour" list. This is necessary to remain inclusive to members of our community who have difficulty reading social cues due to ability, language barriers, cultural differences, differences in lived experiences or just the ambiguity of internet communication. 
 
 ## 4\. Unacceptable Behaviour
 
@@ -90,15 +94,15 @@ The following behaviors are considered harassment and are unacceptable anywhere 
 * Posting or displaying sexually explicit or violent material.
 * Posting or threatening to post other people's personally identifying information ("doxing").
 * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances (e.g DMing a member of the community with the intent to persue a relationship).
+* Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances (e.g DMing a member of the community with the intent to pursue a relationship).
 * Deliberate intimidation, stalking or following (online or in person).
 * Sustained disruption of community events, including talks and presentations.
-* Inappropriate physical contact. You should have someone's consent before touching them.
+* Inappropriate physical contact. You must have someone's consent before touching them.
 * Inappropriate photography or recording.
 * Advocating for, or encouraging, any of the above behavior.
 
 Unacceptable behavior can also include various kinds of "bad faith participation", including such examples as:
-* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. Please keep debates confined to the #debate channel.
+* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. Please keep debates confined to the[#debate channel](https://app.slack.com/client/T18HH1BSP/CB3V1CTPH).
 * Trolling language, such as "I would be ok with X if it wasn't for XYZ." or "That's reverse racism." or other denials of the experience of marginalized folks. See the community standards for the kind of community we strive to be.
 * Deflecting your argument with requests (e.g. "show me proof of your personal experience") or repeated questions designed to wear down the patience of the other side. 
 * Outright refusal to try to adhere to the Expected Behaviours outlined for the community
