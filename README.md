@@ -132,7 +132,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6\. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by using the [reporting form](https://goo.gl/forms/94uxzsNnwDLIotQ23).
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible by using the [Reporting Tool](https://yyjtech.slack.com/apps/A069TMQR4R1-report-a-message?tab=more_info) Slack app.
 
 See our [Reporting Guidelines](https://github.com/yyjtech/code-of-conduct/blob/master/reporting_guidelines.md) for more details.
 
