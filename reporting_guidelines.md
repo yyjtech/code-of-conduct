@@ -53,7 +53,7 @@ guarantee we’ll act on it.
 ### Appealing
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision
-of the working group, contact community stewards with your appeal and we will review the case.
+of the working group, contact [community stewards](https://yyjtech.ca/channel-stewards/) with your appeal and we will review the case.
 
 Revision 1.2, posted May 27, 2023 
 Reporting Guidelines derived from those ofthe Django Software Foundation.
