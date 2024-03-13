@@ -1,7 +1,9 @@
 # Reporting Guidelines
 
 If you believe someone is violating the code of conduct (https://github.com/yyjtech/code-of-conduct) 
-we ask that you report it to the YYJ Tech community stewards through the Reporting Tool app within Slack. https://yyjtech.slack.com/apps/A069TMQR4R1-report-a-message?tab=more_info
+we ask that you report it to the YYJ Tech community stewards through the Reporting Tool app within Slack. https://yyjtech.slack.com/apps/A069TMQR4R1-report-a-message?tab=more_info. Click on the “More actions” ellipsis (…) next to any message and select “Report message”
+
+![Reporting Tool](ReportingTool.png)
 
 **All reports will be kept confidential.** 
 
@@ -14,7 +16,7 @@ If you believe anyone is in physical danger, please notify appropriate law
 enforcement first. If you are unsure what law enforcement agency is appropriate,
 please include this in your report and we will attempt to notify them.
 
-If you included personal contact information, you will receive communication from the YYJ Tech community stewards acknowledging
+If you included personal contact information, you will receive communication from the YYJ Tech [community stewards](https://yyjtech.ca/channel-stewards/) acknowledging
 receipt within 24 hours (and will aim for much quicker than that).
 
 The working group will review the incident and determine:
