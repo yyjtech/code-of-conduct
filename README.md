@@ -128,7 +128,7 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event). A temporary ban can be lifted once you have [requested via the reactivation form](https://docs.google.com/forms/d/e/1FAIpQLSfjqqL789KNnw4mLwp5N2Z1bb4yTfaLhcugLnAdW4Rq-RZhbQ/viewform?usp=publish-editor). 
 
 ## 6\. Reporting Guidelines
 
