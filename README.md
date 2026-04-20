@@ -102,7 +102,7 @@ The following behaviors are considered harassment and are unacceptable anywhere 
 * Advocating for, or encouraging, any of the above behavior.
 
 Unacceptable behavior can also include various kinds of "bad faith participation", including such examples as:
-* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. Please keep debates confined to the[#debate channel](https://app.slack.com/client/T18HH1BSP/CB3V1CTPH).
+* Starting conversations with the express purpose of having an argument or debating a topic; This is a forum for casual professional networking, this is not IRC or Reddit. 
 * Trolling language, such as "I would be ok with X if it wasn't for XYZ." or "That's reverse racism." or other denials of the experience of marginalized folks. See the community standards for the kind of community we strive to be.
 * Deflecting your argument with requests (e.g. "show me proof of your personal experience") or repeated questions designed to wear down the patience of the other side. 
 * Outright refusal to try to adhere to the Expected Behaviours outlined for the community
